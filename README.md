@@ -1,46 +1,35 @@
-<h2 align="center">Hi 👋! My name is Keshab Sigdel, and I'm a student from Ithari International College and this is my github profile.</h2>
+<div align="center">
+  
+# 👋 Hello, I'm Keshab sigdel
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Mobile+App+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
 
-<img align="right" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFzaHJ6eHV3N29pMGdoanc0d2gxZXU2N2RkOXl2eDc4OTg1MWNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nn8uzAnxuchf2OWXNy/giphy.gif"  />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="sigdelbibek9898@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p>
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="keshab-sigdel-02ba71337" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/pawal_karki/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=keshab-DOT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab-DOT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=pawal-karki&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=pawal-karki&color=blueviolet&style=for-the-badge" alt="Profile Views">
+
+### 💰 Support My Work
+
+<a href="https://ko-fi.com/pawal_karki">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+</a>
+
+</div>
