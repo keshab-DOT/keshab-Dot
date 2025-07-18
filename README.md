@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=keshab-DOT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab-DOT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=pawal-karki&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
+<img src="https://nirzak-streak-stats.vercel.app/?user=keshab-DOT&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
 
 ### 💭 Random Dev Quote
 
@@ -24,7 +24,7 @@
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=pawal-karki&color=blueviolet&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=keshab-DOT&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
 ### 💰 Support My Work
 
