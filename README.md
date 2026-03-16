@@ -1,35 +1,125 @@
-<div align="center">
-  
-# 👋 Hello, I'm Keshab sigdel
+<!-- Developer Banner -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Mobile+App+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/pawal_karki/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Keshab%20Dot&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=keshab-DOT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab-DOT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170">
+<h1 align="center">Hi 👋, I'm Keshab Dot</h1>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=keshab-DOT&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSIT+Student;MERN+Stack+Learner;Building+Real+World+Projects" />
+</p>
 
-### 💭 Random Dev Quote
+---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+## 👀 Profile Visitors
 
-### 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=keshab-DOT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=keshab-DOT&color=blueviolet&style=for-the-badge" alt="Profile Views">
+---
 
-### 💰 Support My Work
+## 🚀 About Me
 
-<a href="https://ko-fi.com/pawal_karki">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-</a>
+🎓 **BSc CSIT Student**
+💻 Passionate about **Full Stack Development**
+🌱 Currently learning **MERN Stack Development**
+🤖 Interested in **AI Projects and Robotics**
+📍 Based in **Nepal**
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=keshab-DOT&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=keshab-DOT&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshab-DOT&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab-DOT&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## ⚡ Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshab-DOT&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/keshab-DOT/keshab-DOT/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚀 Current Projects
+
+💊 **Online Pharmacy System (Final Year Project)**
+
+Features:
+
+* Medicine search system
+* Pharmacy dashboard
+* Admin approval system
+* Online payment integration
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⭐ **Thanks for visiting my profile!**
