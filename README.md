@@ -1,3 +1,7 @@
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmppdW44MDc1dHMwam01YW5mbGNib3plc290dmRwY3NuZGJlemtpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -7,10 +11,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
