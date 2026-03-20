@@ -117,8 +117,8 @@ Features:
 
 ## 📫 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+📧 Email: [your-email@example.com](sigdelbibek9898@gmail.com)
+💼 LinkedIn: https://linkedin.com/keshab-sigdel-02ba71337
 
 ---
 
