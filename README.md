@@ -1,125 +1,67 @@
-<!-- Developer Banner -->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Keshab%20Dot&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+###
 
-<h1 align="center">Hi 👋, I'm Keshab Dot</h1>
+<p align="left">👋 Hello, I'm keshab.<br><br>🎓 Final Year IT Student  <br>💡 Building practical and user-friendly web applications</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSIT+Student;MERN+Stack+Learner;Building+Real+World+Projects" />
-</p>
+###
 
----
+<h2 align="left">About me</h2>
 
-## 👀 Profile Visitors
+###
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=keshab-DOT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🚀 About Me
+<p align="left">💻 I turn ideas into real-world web applications  <br>🎓 Final Year IT student <br>🤖 Interested in AI Projects and Robotics</p>
 
-🎓 **BSc CSIT Student**
-💻 Passionate about **Full Stack Development**
-🌱 Currently learning **MERN Stack Development**
-🤖 Interested in **AI Projects and Robotics**
-📍 Based in **Nepal**
+###
 
----
+<h2 align="left">Skills</h2>
 
-## 🛠️ Tech Stack
+###
 
-### 💻 Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+###
 
-### ⚙️ Backend
+<h2 align="left">How to contact me !!</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+###
 
-### 🗄️ Database
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+###
 
-### 🧰 Tools
+<img src="https://raw.githubusercontent.com/keshab-Dot/keshab-Dot/output/snake.svg" alt="Snake animation" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+###
 
----
+<h2 align="left">Streaks</h2>
 
-## 🏆 GitHub Trophies
+###
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=keshab-DOT&theme=tokyonight&row=1&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshab-Dot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshab-Dot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=keshab-Dot&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshab-Dot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=keshab-DOT&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshab-DOT&theme=tokyonight" />
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab-DOT&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## ⚡ Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshab-DOT&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/keshab-DOT/keshab-DOT/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Current Projects
-
-💊 **Online Pharmacy System (Final Year Project)**
-
-Features:
-
-* Medicine search system
-* Pharmacy dashboard
-* Admin approval system
-* Online payment integration
-
----
-
-## 📫 Connect With Me
-
-📧 Email: (sigdelbibek9898@gmail.com)
-💼 LinkedIn: keshab-sigdel-02ba71337
-
----
-
-⭐ **Thanks for visiting my profile!**
+###
