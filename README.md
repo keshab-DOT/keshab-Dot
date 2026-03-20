@@ -49,10 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/keshab-Dot/keshab-Dot/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Streaks</h2>
 
 ###
